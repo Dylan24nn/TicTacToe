@@ -1,0 +1,19 @@
+.map {
+    border: 1px solid black;
+    width: 306px;
+    height: 306px;
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: bottom;
+    text-align: center;
+
+
+}
+.map div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+
+
+
+}
